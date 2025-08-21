@@ -1,0 +1,7 @@
+com\example\ListFoodServlet.class
+com\example\FoodDAO.class
+com\example\UpdateFoodServlet.class
+com\example\Food.class
+com\example\AddFoodServlet.class
+com\example\DeleteFoodServlet.class
+com\example\EditFoodServlet.class
